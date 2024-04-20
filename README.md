@@ -1,6 +1,6 @@
 # Pokemon Cards Project
 
-![Image Alt Text](https://github.com/your-username/your-repository/blob/main/path/to/image.png)
+![card](https://github.com/DepyRigadopoulouKeighran/Pokemon-Cards/assets/136313917/ac60fde8-5f6b-498c-b5de-5dfb81eb6fe2)
 
 ## Overview
 
