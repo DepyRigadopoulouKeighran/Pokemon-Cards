@@ -27,6 +27,12 @@ Pokemon Cards is a web application designed to display detailed information abou
 4. Click the search button to fetch and display the Pokemon's data on the card.
 5. Explore the displayed information about the Pokemon, including its name, picture, stats, and abilities.
 
+## Play Audio
+
+While using the Pokémon Cards page, you can enjoy some Pokémon-themed techno music! Click the button below to play the music:
+
+Feel free to groove to the beats while browsing through Pokémon cards and exploring the features of the page!
+
 ## Acknowledgments
 
 - Pokemon API: [pokeapi.co](https://pokeapi.co/) 🌟
