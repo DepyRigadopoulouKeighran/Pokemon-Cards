@@ -1,0 +1,16 @@
+{
+  "name": "pokemon-cards",
+  "version": "1.0.0",
+  "description": "![card](https://github.com/DepyRigadopoulouKeighran/Pokemon-Cards/assets/136313917/ac60fde8-5f6b-498c-b5de-5dfb81eb6fe2)",
+  "main": "main.js",
+  "dependencies": {
+    "animate.css": "^4.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
