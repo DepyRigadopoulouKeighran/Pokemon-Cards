@@ -35,6 +35,8 @@ input {
 
 input::placeholder {
   color: rgb(255, 77, 0);
+  margin-left: 5px;
+  text-align: center;
 }
 
 input:hover,
