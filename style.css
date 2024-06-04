@@ -31,12 +31,13 @@ button {
 
 input {
   cursor: pointer;
+  padding-left: 20px;
 }
 
 input::placeholder {
   color: rgb(255, 77, 0);
   margin-left: 5px;
-  text-align: center;
+  padding-left: 20px;
 }
 
 input:hover,
