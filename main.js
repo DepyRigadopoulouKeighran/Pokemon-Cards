@@ -20,7 +20,7 @@ const cardTemplate = (input) => {
                 </div>
                 <p class="pokemonName">${input.name}</p>
                 <ul class="ul-style">
-                <p class="titles">STATUS</p>
+                <p class="titles">STATS</p>
                 ${stats}</ul>
                 
                 <ul class="ul-abilities-style">
